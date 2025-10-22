@@ -14,7 +14,7 @@
             <property name="jakarta.persistence.jdbc.driver" value="org.postgresql.Driver"/>
             <property name="jakarta.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/bibliodb"/>
             <property name="jakarta.persistence.jdbc.user" value="postgres"/>
-            <property name="jakarta.persistence.jdbc.password" value="zidane2002"/>
+            <property name="jakarta.persistence.jdbc.password" value="Alejo"/>
 
             <!-- Hibernate -->
             <property name="hibernate.hbm2ddl.auto" value="update"/>
