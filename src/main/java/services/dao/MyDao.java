@@ -3,8 +3,8 @@ package services.dao;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.TypedQuery;
 import java.util.List;
-import ni.edu.uam.biblioteca.services.interfaces.ICRUD;
-import ni.edu.uam.biblioteca.util.JPAConexion;
+import services.interfaces.ICRUD;
+import util.JPAConexion;
 
 public class MyDao implements ICRUD {
 
